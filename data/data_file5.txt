@@ -1,0 +1,159 @@
+FLOSS static ASCII strings
+!This program cannot be run in DOS mode.
+Richo
+.text
+`.rdata
+@.data
+.rsrc
+_^][
+SUVWj:h
+_^][
+T$0f
+D$DP
+D$\QPU
+L$(hT0@
+T$4hT0@
+|$XS
+D$\h
+L$\hL0@
+T$\h@0@
+|$XS
+D$\h
+_^][
+SVWj
+=, @
+D$(Qj
+t2Ht
+=( @
+[t	V
+D$dSV
+t$p3
+=8 @
+L$pj
+D$8D
+\$Hf
+\$lf
+QRSSSj
+SSPS
+UVWj
+=@ @
+L$,h
+5< @
+L$(h
+T$(Q
+D$ RP
+T$ QRP
+T$,h
+SVWj
+=H @
+D$$V
+T$4hp0@
+L$$VQR
+D$ h
+D$<SUVWh
+L$Lh
+T$PQR
+5\ @
+=8 @
+D$ x0@
+5X @
+-P @
+T$Hj@R
+D$Hj
+L$Lj
+_^]3
+hP!@
+hSVW
+>"u:F
+XPVSS
+%| @
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-/
+CloseHandle
+WaitForSingleObject
+CreateEventA
+ExitThread
+Sleep
+GetComputerNameA
+CreatePipe
+DisconnectNamedPipe
+TerminateProcess
+WaitForMultipleObjects
+TerminateThread
+CreateThread
+CreateProcessA
+DuplicateHandle
+GetCurrentProcess
+ReadFile
+PeekNamedPipe
+SetEvent
+WriteFile
+SetProcessPriorityBoost
+SetThreadPriority
+GetCurrentThread
+SetPriorityClass
+lstrcatA
+lstrcpyA
+GetEnvironmentVariableA
+GetShortPathNameA
+GetModuleFileNameA
+KERNEL32.dll
+LoadStringA
+USER32.dll
+SHChangeNotify
+ShellExecuteExA
+SHELL32.dll
+_beginthread
+_strnicmp
+sprintf
+atol
+strchr
+free
+malloc
+MSVCRT.dll
+_exit
+_XcptFilter
+exit
+_acmdln
+__getmainargs
+_initterm
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+__set_app_type
+_except_handler3
+_controlfp
+WS2_32.dll
+urlmon.dll
+GetModuleHandleA
+GetStartupInfoA
+_itoa
+1http://www.ueopen.com/test.html
+*(SY)# cmd
+*(SY)#
+send = %d
+*(SY)# 
+cmd.exe
+exit
+Open
+ > nul
+/c del 
+COMSPEC
+PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDING
+
+FLOSS static Unicode strings
+218.234.17.30:433
+
+
+FLOSS decoded 7 strings
+md.exe
+exit
+Open
+ > nul
+/c del 
+COMSPEC
+218.234.17.30:43
+
+FLOSS extracted 0 stackstrings
+
+Finished execution after 5.512000 seconds
